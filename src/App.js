@@ -16,7 +16,7 @@ class App extends Component {
           </React.Fragment>
         </Router>
       </ApolloProvider>
-    );     
+    );
   }
 }
 
